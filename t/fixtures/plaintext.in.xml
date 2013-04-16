@@ -1,0 +1,5 @@
+<SOAP-ENV:Body
+xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:wsu="http://schemas.xmlsoap.org/ws/2002/04/utility" Id="myBody">
+<Catalog xmlns="http://skyservice.pha.jhu.edu" />
+</SOAP-ENV:Body>
